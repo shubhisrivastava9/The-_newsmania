@@ -1,0 +1,9 @@
+[submodule "frontenf_newsmania"]
+	path = frontenf_newsmania
+	url = https://github.com/shubhisrivastava9/frontenf_newsmania.git
+[submodule "frontend_newsmania"]
+	path = frontend_newsmania
+	url = https://github.com/shubhisrivastava9/frontend_newsmania.git
+[submodule "Backend_newsmania."]
+	path = Backend_newsmania.
+	url = https://github.com/shubhisrivastava9/Backend_newsmania..git
