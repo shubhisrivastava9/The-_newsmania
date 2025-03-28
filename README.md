@@ -1,9 +1,3 @@
-<img width="1792" alt="Screenshot 2025-03-29 at 02 29 36" src="https://github.com/user-attachments/assets/b99eca80-b09c-4331-a8db-09a664ea2c14" /># News Mania: Read & Reflect
-
-
-
-
-
 
 ## 📌 Overview
 News Mania is a React-based web application that allows users to browse top news headlines dynamically by selecting a country or a specific news category. The application integrates a **Spring Boot backend** for managing user notes, enabling users to save and delete notes related to the news they read.
@@ -117,5 +111,7 @@ News-Mania/
 - ✅ Add a feature to filter news based on user preferences.
 - ✅ Store news reading history for personalized recommendations.
 
+
+![image](https://github.com/user-attachments/assets/fdfd6337-46e5-426f-8a38-0134e771b319)
 
 
